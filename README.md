@@ -71,5 +71,4 @@ mantisbt-automation/
 └── README.md              # Project documentation
 
 
-🙋‍♀️ Author
-Anish Sheganti
+
